@@ -9,12 +9,12 @@
 - 👋 Hi, I’m @RaghavKhurana3105
 - 🏆 Interested in Embedded Systems, Artificial Intelligence, Robotics,  Data Management
 - 📈 Coding Languagues: Python, C++, Java, SQL, Javascript, TypeScript
-- ⚡️Tech Stack: FastAPI, Google Cloud,Supabase, Vue, React
+- ⚡️Tech Stack: FastAPI, Google Cloud, Supabase, Vue, React
 
 **🌄 Experience:**
 - Currently working at a **KTH Innovation startup** called [Lernico - AI for teachers](https://lernico.ai)
 
-👾🏆 **Hackathons**
+👾 **Hackathons:**
 
 - Norrsken The Worlds Largest Fixathon - [Resile](https://github.com/sachin121103/resile)
 - Antler x KTHAIS Summerbuild Hackathon - [UltraFlow](https://github.com/ApexFadeVIP/flow-state-manager)
