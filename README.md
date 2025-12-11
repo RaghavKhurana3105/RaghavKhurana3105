@@ -17,7 +17,7 @@
 <a href="www.linkedin.com/in/raghav-khurana-52928b279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavkhurana" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://github.com/RaghavKhurana3105/RaghavKhurana3105/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/RaghavKhurana3105/RaghavKhurana3105/output/github-contribution-grid-snake.svg)
 
 <!---
 RaghavKhurana3105/RaghavKhurana3105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
