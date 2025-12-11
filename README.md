@@ -1,6 +1,6 @@
 # Raghav Khurana
 
-<img width="70%" alt="image" src="./mountains.png" />
+<img width="86%" alt="image" src="./mountains.png" />
 
 <p align="left">
 <a href="https://kth.se" target="blank"><img align="left" src="https://github.com/user-attachments/assets/8f1bbfae-a1ef-4d76-9a5d-e6e09b384513" alt="KTH" height="30" width="30"/> </a> <h4 align="left">BSc Informations and Communications Technology at Kungliga Tekniska Högsköla</h4> </p>
@@ -20,23 +20,16 @@
 - Antler x KTHAIS Summerbuild Hackathon - [UltraFlow](https://github.com/ApexFadeVIP/flow-state-manager)
 - Cillers x Customer Support AI Hackathon 
 
-**Connect here:**
-<p align="left">
-<a href="https://www.linkedin.com/in/raghav-khurana-52928b279" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="mailto:theraghavkhurana3105@gmail.com" target="_blank">
-  <img align="center" src="./Gmail_icon_(2020).svg" alt="Email me" height="30" width="40" />
-</a>
+🔗 **Connect here:**
+- [LinkedIn](https://www.linkedin.com/in/raghav-khurana-52928b279)
+- [Email](mailto:theraghavkhurana3105@gmail.com)
 
 
+🍽️ **Snake eating my commits:**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaghavKhurana3105/RaghavKhurana3105/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaghavKhurana3105/RaghavKhurana3105/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaghavKhurana3105/RaghavKhurana3105/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/RaghavKhurana3105/RaghavKhurana3105/output/github-contribution-grid-snake.svg?timestamp=1699999999">
 </picture>
-
 
 
 
