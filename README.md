@@ -20,9 +20,14 @@
 
 <h4 align="left">Connect here:</h4>
 <p align="left">
-<a href="www.linkedin.com/in/raghav-khurana-52928b279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="theraghavkhurana3105@gmail.com" target="blank"><img align="center" src="./Gmail_icon_(2020).svg" alt="raghavkhurana" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/raghav-khurana-52928b279" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="mailto:theraghavkhurana3105@gmail.com" target="_blank">
+  <img align="center" src="./Gmail_icon_(2020).svg" alt="Email me" height="30" width="40" />
+</a>
+
 
 
 
