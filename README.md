@@ -1,6 +1,6 @@
 # Raghav Khurana
 
-<img width="86%" alt="image" src="./mountains.png" />
+<img width="100%" alt="image" src="./mountains.png" />
 
 <p align="left">
 <a href="https://kth.se" target="blank"><img align="left" src="https://github.com/user-attachments/assets/8f1bbfae-a1ef-4d76-9a5d-e6e09b384513" alt="KTH" height="30" width="30"/> </a> <h4 align="left">BSc Informations and Communications Technology at Kungliga Tekniska Högsköla</h4> </p>
