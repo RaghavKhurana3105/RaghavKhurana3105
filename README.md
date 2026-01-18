@@ -12,7 +12,7 @@
 - ⚡️Tech Stack: FastAPI, Google Cloud, Supabase, Vue, React
 
 **🌄 Experience:**
-- Currently working at a **KTH Innovation startup** called [Lernico - AI for teachers](https://lernico.ai)
+- Worked as a Backend Developer at a **KTH Innovation startup** called [Lernico - AI for teachers](https://lernico.ai)
 
 👾 **Hackathons:**
 
