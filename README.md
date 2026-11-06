@@ -7,12 +7,13 @@
 
 
 - 👋 Hi, I’m @RaghavKhurana3105
-- 🏆 Interested in Embedded Systems, Artificial Intelligence, Robotics, Data Management
+- 🏆 Interested in Robotics, Embedded Systems, Artificial Intelligence, Data Science
 - 📈 Coding Languagues: Python, C++, C, Java, SQL, Javascript, TypeScript
 - ⚡️Tech Stack: FastAPI, Google Cloud, Supabase, Vue, React
 
 **🌄 Experience:**
 - Worked as a Backend Developer at a **KTH Innovation startup** called [Lernico - AI for teachers](https://lernico.ai)
+- Worked as FullStack Developer at a startup called **Clips**, a CRM platform used for helping Swedish real estate brokers with their day-to-day work
 
 👾 **Hackathons:**
 
